@@ -13,7 +13,8 @@ https://drive.google.com/file/d/1mWD2FhqUHFQyKtCvi4lEz9coe_tebihp/view?usp=shari
 
 Authors & Contributors
 ---
-Mariya Sha
+
+Author: Mariya Sha
 <br>
 Email: mariyasha888@gmail.com
 <br>
@@ -23,7 +24,7 @@ Youtube: www.youtube.com/PythonSimplified/
 <br>
 Originaly created for
 <br>
-*AI Programming with Python - Udacity Nanodegree Program*.
+AI Programming with Python - Udacity Nanodegree Program
 (2018)
 <br>
 Links
@@ -34,7 +35,7 @@ Links
 https://www.kaggle.com/immu0001/flowers
 <br>
 <br>
-**test_me Flower images***
+**test_me Flower images**
 <br>
 Stock Website: https://www.pexels.com/
 <br>
