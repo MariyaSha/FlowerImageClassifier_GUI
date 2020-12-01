@@ -26,7 +26,7 @@ def display_prediction():
     btn.setText("Loading...") #notify the user that the app is loading
 
     #collect user input
-    get_file = QFileDialog.getOpenFileName(btn, "Open File", "/home/Users/goaim/Documents/Python/wtFlower", "Images (*.png *.xpm *.jpg)")
+    get_file = QFileDialog.getOpenFileName(btn, "Open File", "/home", "Images (*.png *.xpm *.jpg)")
     user_image = get_file[0]
 
     #get and display prediction
