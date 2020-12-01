@@ -14,19 +14,20 @@ https://drive.google.com/file/d/1mWD2FhqUHFQyKtCvi4lEz9coe_tebihp/view?usp=shari
 Authors & Contributors
 ---
 
-Author: Mariya Sha
+**Author:** Mariya Sha
 <br>
-Email: mariyasha888@gmail.com
+**Email:** mariyasha888@gmail.com
 <br>
-Linkedin: www.linkedin.com/in/mariyasha888/
+**Linkedin:** www.linkedin.com/in/mariyasha888/
 <br>
-Youtube: www.youtube.com/PythonSimplified/
+**Youtube:** www.youtube.com/PythonSimplified/
 <br>
 Originaly created for
 <br>
 AI Programming with Python - Udacity Nanodegree Program
 (2018)
 <br>
+
 Links
 ---
 
